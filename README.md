@@ -4,6 +4,7 @@
 ## Tecnologias utilizadas :robot:
 - React Native
 - Expo
+- StyleSheet
   
 
 ## Aplicativo :iphone:
