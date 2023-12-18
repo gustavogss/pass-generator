@@ -6,7 +6,7 @@ import { styles } from "./styles";
 
 export function Logo() {
   return (
-    <View >
+    <View>
       <Image source={logo} style={styles.logo}/>
     </View>
   );

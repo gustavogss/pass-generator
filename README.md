@@ -5,6 +5,7 @@
 - React Native
 - Expo
 - StyleSheet
+- Clipboard
   
 
 ## Aplicativo :iphone:
