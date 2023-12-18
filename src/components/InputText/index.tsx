@@ -10,7 +10,7 @@ interface InputProps{
 export function InputText({value}:InputProps) {
   return (    
     <TextInput 
-    placeholder='Senha gerada'
+    placeholder='Nenhuma senha foi gerada'
     value={value}  
     style={styles.inputText}/>   
   );
